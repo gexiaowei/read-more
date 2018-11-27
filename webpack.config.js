@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'index.js',
-    library:'vue-read-more',
+    library: 'vue-read-more',
     libraryTarget: 'umd'
   },
   module: {
